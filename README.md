@@ -5,7 +5,7 @@
 I love working on projects in the areas of ML, art, design, and science.  
 I have a knack for UI/UX and continue to expand my expertise in the domain.
 
-My repos will come across an amalgamation of my work as an IT student + my personal projects and hackathons/case studies.
+My repos will come across as an amalgamation of my work as an IT student + my personal projects and hackathons/case studies.
 
 ### 🪐 some of my recent projects:  
 ● [Task Tracking](https://cuteproductivityapp-caxus-projects.vercel.app/)  
