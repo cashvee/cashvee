@@ -1,9 +1,11 @@
 # hi, i'm kashvi 🧃✮
 
-## 📌 if you're new here, welcome!  
-I love to work on projects around and about the areas of ML, art, design and science! 
+## 📌 If you're new here, welcome!  
+
+I love working on projects in the areas of ML, art, design, and science.  
 I have a knack for UI/UX and continue to expand my expertise in the domain.
-My repos will come across an amalgamation of my work as an IT student + my personal projects and hackathons/case studies. 
+
+My repos will come across an amalgamation of my work as an IT student + my personal projects and hackathons/case studies.
 
 ### 🪐 some of my recent projects:  
 ● [Task Tracking](https://cuteproductivityapp-caxus-projects.vercel.app/)  
