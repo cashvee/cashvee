@@ -9,6 +9,7 @@ My repos will come across as an amalgamation of my work as an IT student + my pe
  
 ### 🪐 some of my recent projects:  
 ⚝ [Network Security(ML Project)](https://github.com/cashvee/Network-Security)  
+⚝ [Emotion-Recognition(Deep-Learning Project)](https://github.com/cashvee/Emotion-recognition)  
 ⚝ [Task Tracking](https://cuteproductivityapp-caxus-projects.vercel.app/)  
 ⚝ [Port Management](https://greenports-byteme.vercel.app/)  
 
