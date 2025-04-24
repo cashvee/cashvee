@@ -21,3 +21,4 @@ My repos will come across as an amalgamation of my work as an IT major + my pers
 ## 🧭 you can find me here:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashvi-r/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=cashvee&style=flat-square&color=blueviolet)
