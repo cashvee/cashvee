@@ -8,7 +8,7 @@ I have a knack for UI/UX and continue to expand my expertise in the domain.─�
 My repos will come across as an amalgamation of my work as an IT major + my personal projects and hackathons/case studies.
  
 ### 🪐 some of my projects:  
-⚝ [My Website!)](https://kashvi-rho.vercel.app/)  
+⚝ [My Website!](https://kashvi-rho.vercel.app/)  
 ⚝ [Network Security(ML Project)](https://github.com/cashvee/Network-Security)  
 ⚝ [Emotion-Recognition(Deep-Learning Project)](https://github.com/cashvee/Emotion-recognition)  
 ⚝ [Python Automation Script](https://github.com/cashvee/File-Organizer-Automation)  
