@@ -12,7 +12,7 @@ My repos will come across as an amalgamation of my work as an IT major + my pers
 ⚝ [Emotion-Recognition(Deep-Learning Project)](https://github.com/cashvee/Emotion-recognition)  
 ⚝ [Python Automation Script](https://github.com/cashvee/File-Organizer-Automation)  
 ⚝ [Task Tracking](https://cuteproductivityapp-caxus-projects.vercel.app/)  
-⚝ [Book-Log](https://book-log-inky.vercel.app/)
+⚝ [Book-Log](https://book-log-inky.vercel.app/) 
 ⚝ [Port Management](https://greenports-byteme.vercel.app/)  
 
 
