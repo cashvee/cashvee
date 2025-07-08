@@ -13,6 +13,7 @@ My repos will come across as an amalgamation of my work as an IT major + my pers
 ⚝ [Python Automation Script](https://github.com/cashvee/File-Organizer-Automation)  
 ⚝ [Task Tracking](https://cuteproductivityapp-caxus-projects.vercel.app/)  
 ⚝ [Port Management](https://greenports-byteme.vercel.app/)  
+⚝ [Book-Log](https://book-log-inky.vercel.app/)
 
 
 ## 🧷 Technologies & Tools  
