@@ -2,7 +2,7 @@
 
 ## 📌 If you're new here, welcome!  
 
-★──I love working on projects majorily fixating on the areas in and around ML, art, design, and science.  
+★──I love working on projects majorily fixating on the areas in and around ML, dev, design and science.  
 I have a knack for UI/UX and continue to expand my expertise in the domain.──★
 
 My repos will come across as an amalgamation of my work as an IT major + my personal projects and hackathons/case studies.
