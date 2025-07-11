@@ -5,7 +5,7 @@
 ★──I love working on projects majorily fixating on the areas in and around ML, dev, design and science.  
 I have a knack for dev, UI/UX and continue to expand my expertise in the domain.──★
 
-My repos will come across as an amalgamation of my work as an IT major + my personal projects and hackathons/case studies.
+My repos will come across as an amalgamation of my work as an IT major + designer + my personal projects and hackathons/case studies.
  
 ### 🪐 some of my projects:   
 ⚝ [Network Security(ML Project)](https://github.com/cashvee/Network-Security)  
