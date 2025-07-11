@@ -3,18 +3,7 @@
 ## 📌 If you're new here, welcome!  
 
 ★──I love working on projects majorily fixating on the areas in and around ML, dev, design and science.  
-I have a knack for dev, UI/UX and continue to expand my expertise in the domain.──★
-
-My repos will come across as an amalgamation of my work as an IT major + designer + my personal projects and hackathons/case studies.
- 
-### 🪐 some of my projects:   
-⚝ [Network Security(ML Project)](https://github.com/cashvee/Network-Security)  
-⚝ [Emotion-Recognition(Deep-Learning Project)](https://github.com/cashvee/Emotion-recognition)  
-⚝ [Python Automation Script](https://github.com/cashvee/File-Organizer-Automation)  
-⚝ [Task Tracking](https://cuteproductivityapp-caxus-projects.vercel.app/)  
-⚝ [Book-Log](https://book-log-inky.vercel.app/)   
-⚝ [Port Management](https://greenports-byteme.vercel.app/)  
-
+I have a knack for UI/UX and continue to expand my expertise in the domain. I am also a full stack developer and proficient in the nuances of ML, AI and Data Science──★
 
 
 ## 🧷 Technologies & Tools  
