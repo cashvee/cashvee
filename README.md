@@ -2,9 +2,8 @@
 
 ## 📌 Welcome♡
 
-★──I do research and work on projects in and around AI-ML, DL, Neural Networks, FS-Development, design and STEM.  
-
-I am also a seasoned and experienced graphic designer and continue to expand my expertise in the domain!──★
+★ I do research and work on projects in and around AI-ML, DL, Neural Networks, FS-Development, design and STEM.  
+★ I am also a seasoned and experienced graphic designer and continue to expand my expertise in the domain!
 
 
 ## 🧷 Technologies & Tools  
