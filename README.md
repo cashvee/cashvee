@@ -1,9 +1,9 @@
 # hi there! 🧃✮
 
-## 📌 If you're new here, welcome
+## 📌 Welcome♡
 
-★──I love working on projects majorily fixating on the areas in and around ML, dev, design and science.  
-I have a knack for UI/UX and continue to expand my expertise in the domain. I am also a full stack developer and proficient in the nuances of ML, AI and Data Science──★
+★──I do research and work on projects in and around AI-ML, DL, Neural Networks, FS-Development, design and STEM.
+I am also a seasoned and experienced graphic designer and continue to expand my expertise in the domain──★
 
 
 ## 🧷 Technologies & Tools  
