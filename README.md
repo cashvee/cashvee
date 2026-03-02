@@ -1,10 +1,10 @@
 # hi there! 🧃✮
 
-## 📌 Welcome♡
+## 📌 intro/about-me ♡
 
-★ I do research and work on projects in and around AI-ML, DL, Neural Networks, FS-Development, design and STEM.  
+★ I mostly do research and work on projects in and around AI-ML, DL, Neural Networks, FS-Development Design and STEM.  
 
-★ I am also, a seasoned and experienced graphic designer & artist and continue to expand my expertise in the domain!
+★ I am also a seasoned and experienced graphic designer & artist and continue to expand my expertise in the domain! Besides that, I'm really into literary, visual & performing arts :)
 
 
 ## 🧷 Technologies & Tools  
