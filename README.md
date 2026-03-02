@@ -1,5 +1,3 @@
-# hi there! 🧃✮
-
 ## 📌 intro/about-me ♡
 
 ★ I mostly do research and work on projects in and around AI-ML, DL, Neural Networks, CyberSec, FS-Development, Design and STEM.  
