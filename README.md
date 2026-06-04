@@ -1,6 +1,6 @@
 ## 📌 intro/about-me ♡
 
-★ I do research and work on projects in and around AI-ML, DL, Neural Networks, CyberSec, FS-Development, Design and STEM.  
+★ I research and work on projects in and around AI-ML, DL, Neural Networks, CyberSec, FS-Development, Design and STEM.  
 
 ★ I am also a seasoned and experienced graphic designer & artist and continue to expand my expertise in the domain! Besides that, I'm well trained in a variety of literary, visual & performing arts :)
 
