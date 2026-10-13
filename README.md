@@ -1,6 +1,6 @@
-## 📌 intro/about-me ♡
+## 📌 intro/about-me
 
-★ I research and work on projects in and around AI-ML, DL, Neural Networks, CyberSec, FS-Development, Design and STEM.  
+★ I research and work on projects in and around AI-ML, DL, Neural Networks, CyberSec, Full Stack-Development, Design and STEM.  
 
 ★ I am also a seasoned and experienced graphic designer & artist and continue to expand my expertise in the domain! Besides that, I'm well trained in a variety of literary, visual & performing arts :)
 
@@ -35,3 +35,5 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cashvee&style=flat-square&color=blueviolet)
+
+Thanks for visiting :)
