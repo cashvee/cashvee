@@ -1,4 +1,4 @@
-## 📌 intro/about-me
+## 📌 About Me
 
 ★ I research and work on projects in and around AI-ML, DL, Neural Networks, CyberSec, Full Stack-Development, Design and STEM.  
 
