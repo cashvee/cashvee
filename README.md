@@ -8,7 +8,8 @@ I'm passionate about building meaningful software, solving problems, integrating
 
 ## Links you should check out!
 💼 **LinkedIn:**  
-   [https://www.linkedin.com/in/kashvi-r/](https://www.linkedin.com/in/kashvi-r/)    
+   [https://www.linkedin.com/in/kashvi-r/](https://www.linkedin.com/in/kashvi-r/)  
+      
 💻 **VisFit**  
    [https://www.visfit.store](https://www.visfit.store)
 
