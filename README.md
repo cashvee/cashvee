@@ -10,7 +10,7 @@ I'm passionate about building meaningful software, solving problems, integrating
 💼 **LinkedIn:**  
    [https://www.linkedin.com/in/kashvi-r/](https://www.linkedin.com/in/kashvi-r/)    
 💻 **VisFit**  
-   [https://www.visfit.store]
+   [https://www.visfit.store](https://www.visfit.store)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cashvee&label=Profile%20views&color=0e75b6&style=flat" alt="cashvee" /> </p>
 
