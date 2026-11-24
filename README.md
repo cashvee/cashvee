@@ -2,7 +2,7 @@
 
 ### Hi there! <img width="20" height="25" src="https://github.com/user-attachments/assets/a003e429-9749-49f8-bd54-ceeac1cdf8ff"/>  
 I am Kashvi, a B.Tech final year student @MIT Manipal pursuing Information Technology (Specialisation in Computational Intelligence)    
-Co-Founder & CTO @VisFit - a wellness + tech venture (check out the link below or on my profile!)
+Co-Founder @VisFit - a wellness + tech venture (check out the link below or on my profile!)
   
 I'm passionate about building meaningful software, solving problems, integrating creative concepts with tech and beyond technology, I care about making the industry more accessible, supportive, and empowering for women. My motto is “less is more” when it comes to work and responsible engineering excites me!
 
